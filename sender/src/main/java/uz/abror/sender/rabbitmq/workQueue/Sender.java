@@ -1,4 +1,4 @@
-package uz.abror.sender.rabbitmq.work.queue;
+package uz.abror.sender.rabbitmq.workQueue;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
